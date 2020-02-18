@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer4.Contrib.Caching", "src\IdentityServer4.Contrib.Caching\IdentityServer4.Contrib.Caching.csproj", "{426B69F2-A60F-42B5-9BD5-9EAA878EE413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer4.Contrib.Caching.Test", "src\IdentityServer4.Contrib.Caching.Test\IdentityServer4.Contrib.Caching.Test.csproj", "{69EDFA26-78C3-40E2-8D8D-56DA221A4545}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{828389DA-7546-44E6-A25C-7C4341E8F9C8}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+        .gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426B69F2-A60F-42B5-9BD5-9EAA878EE413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426B69F2-A60F-42B5-9BD5-9EAA878EE413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426B69F2-A60F-42B5-9BD5-9EAA878EE413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426B69F2-A60F-42B5-9BD5-9EAA878EE413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EDFA26-78C3-40E2-8D8D-56DA221A4545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EDFA26-78C3-40E2-8D8D-56DA221A4545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EDFA26-78C3-40E2-8D8D-56DA221A4545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EDFA26-78C3-40E2-8D8D-56DA221A4545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
